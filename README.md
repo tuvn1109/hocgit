@@ -1,2 +1,1 @@
-# huong dan git co ban
-# hocgit
+# huong dan co ban
